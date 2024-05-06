@@ -66,12 +66,12 @@ module.exports = {
 
     const button2 = new ButtonBuilder()
       .setLabel('Discord')
-      .setURL('https://discord.gg/J7XNKb4MqS')
+      .setURL('https://discord.gg/j4PnmsF4MD')
       .setStyle(ButtonStyle.Link);
 
     const button3 = new ButtonBuilder()
-      .setLabel('Code')
-      .setURL('https://github.com/ItzPiyish/ADV-MUSIC')
+      .setLabel('Invite Me')
+      .setURL('https://discord.com/oauth2/authorize?client_id=1233635565753339945&permissions=8&scope=bot')
       .setStyle(ButtonStyle.Link);
       
     const row = new ActionRowBuilder()
