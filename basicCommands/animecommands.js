@@ -1,7 +1,7 @@
 const { EmbedBuilder } = require('discord.js');
 const db = require("../mongodb");
 module.exports = {
-  name: 'animecommands',
+  name: 'helpanime',
   description: 'Display a list of available anime-related commands!',
   execute(message, args) {
     const embed = new EmbedBuilder()
