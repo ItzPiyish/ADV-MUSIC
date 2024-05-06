@@ -17,9 +17,9 @@ module.exports = {
     },
 };
 
-   DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-   YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+   DISCORD SERVER : https://discord.gg/j4PnmsF4MD
+   
 
    FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/c4kaW2sSbm ]
+   ## Contact    [ DISCORD SERVER :  https://discord.gg/j4PnmsF4MD ]
 */
