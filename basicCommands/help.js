@@ -13,8 +13,8 @@ module.exports = {
       .setColor('#2b71ec')
       .setAuthor({
         name: 'Im here to Help!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1175487983915376662/1175667506791325706/communication.png?ex=656c10b0&is=65599bb0&hm=e378f1b355a2401bcab504b08a0766001d6b7c090c91ce0a7a7a87c868feb955&', 
-        url: 'https://discord.gg/FUEHs7RCqz'
+        iconURL: 'https://cdn.discordapp.com/attachments/1236906908162719774/1236920865862451200/Music_GIF_-_Music_-_Discover__Share_GIFs.gif?ex=6639c3d3&is=66387253&hm=2f7118e4f9a290a38bf73f944239dd52fa2dd53809379d9f9d21624656179e79&', 
+        url: 'https://discord.gg/j4PnmsF4MD'
     })
      
       .setDescription(`__**STATS :**__\n\n> **📊 Bot in servers:** ${serverCount}\n> **🟢 Bot Ping:** ${botPing}ms\n> **👑 Made By [Itz_Genius](https://youtube.com/@androiddiscordtips50?si=fXZZtJUkvD4orLcn)**\n\n__**COMMANDS :**__ `)
@@ -60,8 +60,8 @@ module.exports = {
       .setImage(`https://cdn.discordapp.com/attachments/1170652474563117138/1224660177039396876/MULTI_MUSIC_v1.5.png?ex=661e4cab&is=660bd7ab&hm=f7a542462fabaf9c1530ece5aa72597cff3ac032876bba46df5ddba7e122ea99&`);
 
     const button1 = new ButtonBuilder()
-      .setLabel('YouTube')
-      .setURL('https://youtube.com/@androiddiscordtips50?si=fXZZtJUkvD4orLcn')
+      .setLabel('Contact Me')
+      .setURL('https://cdn.discordapp.com/attachments/708704067928719362/1236926986371465216/image.png?ex=6639c986&is=66387806&hm=a947300b9f6ffd7cd02691c85c4359c2bbe1341026b30209d3081a0e777acbe3&')
       .setStyle(ButtonStyle.Link);
 
     const button2 = new ButtonBuilder()
